@@ -14,16 +14,16 @@ It is designed for high-demand, modular systems such as:
 
 The data model is defined using a custom format `.rmodel` based on the ddkit framework (rmodel-api).
 
+> Please note that the `.rmodel` data model is for documentation purposes only and does not reflect the actual interface used on the communication layer. Network communication is only possible through the provided libraries.
+
 For detailed documentation, please refer to the [official documentation](https://rheinmetall.github.io/onboardapi-documentation).
 
 Available for:
 
-- [C++](https://rheinmetall.github.io/onboardapi-documentation/index.html)
-  - [CMake Integration](https://rheinmetall.github.io/onboardapi-documentation/impl_example.html#cmake_integration)
-  - [C++ Examples](https://rheinmetall.github.io/onboardapi-documentation/impl_example.html)
-- [Python](https://rheinmetall.github.io/onboardapi-documentation/wrappers/python/index.html)
-- [C# / .NET](https://rheinmetall.github.io/onboardapi-documentation/wrappers/dotnet/index.html)
-- [Java](https://rheinmetall.github.io/onboardapi-documentation/wrappers/java/index.html)
+- C++
+- Python
+- C# / .NET
+- Java
 
 ## Tools
 
